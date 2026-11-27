@@ -1,0 +1,16 @@
+code_indicateur,nom,libelle,theme
+SP.POP.TOTL,population,Population totale (habitants),Démographie
+SP.POP.GROW,croissance_pop,Croissance démographique (% par an),Démographie
+SP.URB.TOTL.IN.ZS,urbanisation,Population urbaine (% du total),Démographie
+SP.DYN.TFRT.IN,fecondite,Fécondité (enfants par femme),Démographie
+NY.GDP.PCAP.KD,pib_hab,PIB par habitant (US$ constants),Économie
+NY.GDP.MKTP.KD.ZG,croissance_pib,Croissance du PIB (% par an),Économie
+FP.CPI.TOTL.ZG,inflation,"Inflation, prix à la consommation (% par an)",Économie
+SP.DYN.LE00.IN,esperance_vie,Espérance de vie à la naissance (années),Santé
+SH.DYN.MORT,mortalite_5ans,Mortalité des moins de 5 ans (pour 1 000 naissances),Santé
+SH.MLR.INCD.P3,incidence_palu,Incidence du paludisme (pour 1 000 à risque),Santé
+SE.PRM.CMPT.ZS,achevement_primaire,Taux d'achèvement du primaire (%),Éducation
+SE.ADT.LITR.ZS,alphabetisation,Alphabétisation des adultes (%),Éducation
+EG.ELC.ACCS.ZS,electricite,Accès à l'électricité (% de la population),Infrastructures
+IT.NET.USER.ZS,internet,Utilisateurs d'Internet (% de la population),Infrastructures
+SH.H2O.BASW.ZS,eau_base,Accès à l'eau potable de base (% de la population),Infrastructures

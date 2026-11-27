@@ -1,0 +1,16 @@
+nom,annees_disponibles,manquantes,taux_manquant_pct,premiere_annee,derniere_annee
+alphabetisation,7,18,72.0,2002,2022
+achevement_primaire,17,8,32.0,2000,2022
+population,25,0,0.0,2000,2024
+fecondite,25,0,0.0,2000,2024
+pib_hab,25,0,0.0,2000,2024
+croissance_pop,25,0,0.0,2000,2024
+urbanisation,25,0,0.0,2000,2024
+inflation,25,0,0.0,2000,2024
+croissance_pib,25,0,0.0,2000,2024
+mortalite_5ans,25,0,0.0,2000,2024
+esperance_vie,25,0,0.0,2000,2024
+incidence_palu,25,0,0.0,2000,2024
+electricite,25,0,0.0,2000,2024
+internet,25,0,0.0,2000,2024
+eau_base,25,0,0.0,2000,2024
